@@ -1,0 +1,3 @@
+C:/Users/Asus/OneDrive/Desktop/Facultate/Laboratoare/An3-Semestu1-Engleza/pdp/Lab1/SupermarketInventory/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Asus/OneDrive/Desktop/Facultate/Laboratoare/An3-Semestu1-Engleza/pdp/Lab1/SupermarketInventory/cmake-build-debug/CMakeFiles/SupermarketInventory.dir
+C:/Users/Asus/OneDrive/Desktop/Facultate/Laboratoare/An3-Semestu1-Engleza/pdp/Lab1/SupermarketInventory/cmake-build-debug/CMakeFiles/rebuild_cache.dir

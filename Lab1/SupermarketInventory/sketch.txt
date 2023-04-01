@@ -1,0 +1,4 @@
+PRODUCT - unit_price float, quantity int
+LIST OF BILLS - List[PRODUCT, SOLD_QUANTITY, TOTAL_PRICE]
+SALES - decreases quantity, increases TOTAL_PRICE, adds the bill to the LIST OF BILLS
+INVENTORY CHECK - see the list of bills, as well as the products you have (so that the total price is justified)

@@ -1,0 +1,3 @@
+C:\Users\Asus\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\203.7148.70\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\SupermarketInventory.dir/objects.a
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\ar.exe cr CMakeFiles\SupermarketInventory.dir/objects.a @CMakeFiles\SupermarketInventory.dir\objects1.rsp
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\SupermarketInventory.dir/objects.a -Wl,--no-whole-archive  -o SupermarketInventory.exe -Wl,--out-implib,libSupermarketInventory.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\SupermarketInventory.dir\linklibs.rsp
