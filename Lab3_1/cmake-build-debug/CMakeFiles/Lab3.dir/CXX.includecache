@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Asus/OneDrive/Desktop/Facultate/Laboratoare/An3-Semestu1-Engleza/pdp/Lab3_1/main.cpp
+iostream
+-
+thread
+-
+fstream
+-
+thread-pool-master/include/ThreadPool.h
+C:/Users/Asus/OneDrive/Desktop/Facultate/Laboratoare/An3-Semestu1-Engleza/pdp/Lab3_1/thread-pool-master/include/ThreadPool.h
+chrono
+-
+
+C:/Users/Asus/OneDrive/Desktop/Facultate/Laboratoare/An3-Semestu1-Engleza/pdp/Lab3_1/thread-pool-master/include/SafeQueue.h
+mutex
+-
+queue
+-
+
+C:/Users/Asus/OneDrive/Desktop/Facultate/Laboratoare/An3-Semestu1-Engleza/pdp/Lab3_1/thread-pool-master/include/ThreadPool.h
+functional
+-
+future
+-
+mutex
+-
+queue
+-
+thread
+-
+utility
+-
+vector
+-
+SafeQueue.h
+C:/Users/Asus/OneDrive/Desktop/Facultate/Laboratoare/An3-Semestu1-Engleza/pdp/Lab3_1/thread-pool-master/include/SafeQueue.h
+
